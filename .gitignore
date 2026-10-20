@@ -1,0 +1,6 @@
+output/
+runs/
+__pycache__
+me/
+*.ipynb
+.gitignore

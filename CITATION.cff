@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata below.
+title: "SACA-Tox: Shared-Anchor Contrastive Alignment for Molecular Toxicity Prediction"
+type: software
+authors:
+  - family-names: Tahseen
+    given-names: Nabiha
+    affiliation: Bangladesh University of Engineering and Technology
+  - family-names: Siyam
+    given-names: Shahraz Hussain
+    affiliation: Bangladesh University of Engineering and Technology
+  - family-names: Rahman
+    given-names: Atif Hasan
+    affiliation: Bangladesh University of Engineering and Technology
+repository-code: "https://github.com/Morningstaaar36/Toxicity_Prediction"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-21
